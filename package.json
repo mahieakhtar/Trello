@@ -1,0 +1,23 @@
+{
+  "name": "Trello",
+  "version": "1.0.0",
+  "description": "This repository contains code used for Trello \"Cypress.io - End to End Testing Framework\" by Mahie Akhtar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahieakhtar/Trello.git"
+  },
+  "keywords": [],
+  "author": "Mahie Akhtar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahieakhtar/Trello/issues"
+  },
+  "homepage": "https://github.com/mahieakhtar/Trello#readme",
+  "dependencies": {
+    "cypress": "^5.2.0"
+  }
+}
